@@ -421,6 +421,9 @@ img {
   .home {
     padding: 4rem 0 2rem;
   }
+  .nav__logo {
+     max-width: 58%;
+  }
   .home__social {
     padding-top: 0;
     padding-bottom: 2.5rem;
@@ -491,6 +494,9 @@ img {
   .nav__link {
     color: var(--second-color);
   }
+  .nav__logo {
+     max-width: 58%;
+  }
   .home {
     padding: 8rem 0 2rem;
   }
@@ -526,5 +532,8 @@ img {
   }
   .home__img {
     width: 450px;
+  }
+  .nav__logo {
+     max-width: 58%;
   }
 }
